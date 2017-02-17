@@ -1,0 +1,28 @@
+FC and diff used for file changes
+FC - windows
+diff - linux, mac
+
+
+History :
+
+Don't need to manually keep the history of changes
+
+
+Commits :
+
+Can forget to commit
+changes can be can too small or too big
+
+
+Saving multiple files :
+
+Saving multiple files in one commit makes more sense
+
+
+git history :
+
+git log or --stat helps number of changes
+
+
+Confidence from VC :
+"%HOMEDRIVE%%HOMEPATH%"
