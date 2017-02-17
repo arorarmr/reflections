@@ -1,0 +1,24 @@
+Init :
+
+git init initializes a new repository
+
+
+Staging are :
+
+add the files to staging area for commit
+git add filename
+
+
+
+Saving multiple files :
+
+Saving multiple files in one commit makes more sense
+
+
+git history :
+
+git log or --stat helps number of changes
+
+
+Confidence from VC :
+"%HOMEDRIVE%%HOMEPATH%"
